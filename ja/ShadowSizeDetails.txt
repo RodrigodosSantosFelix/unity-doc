@@ -1,4 +1,4 @@
-! シャドウ サイズの計算 / Shadow Size Computation
+! シャドウ サイズの計算
 
 Unity では、[[Shadows | shadow map]] サイズは以下のように計算されます。
 

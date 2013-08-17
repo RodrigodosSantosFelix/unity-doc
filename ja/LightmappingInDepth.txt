@@ -1,4 +1,4 @@
-! ライトマッピング詳細 / Lightmapping In-Depth
+! ライトマッピング詳細
 
 Unity で最初のシーンにライトマップ使用している場合、この [[Main.Lightmapping | クイックスタート ガイド]] が役に立つでしょう。
 

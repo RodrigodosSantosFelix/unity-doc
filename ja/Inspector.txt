@@ -1,4 +1,4 @@
-!インスペクター / Inspector
+!インスペクター
 
 Attach:Editor-Inspector.png\\
 

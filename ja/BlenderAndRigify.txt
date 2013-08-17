@@ -1,4 +1,4 @@
-! Blender と Rigify の使用 / Using Blender and Rigify
+! Blender と Rigify の使用
 
 現在 Blender にはフリーのアドオンである Rigify が同梱されていて、これにより自身のモデルに二足歩行キャラクターのリグ を作成してメカニム と連動させることができます。新しいゲームおよびカジュアルゲームの開発者にとって非常に便利です。
 

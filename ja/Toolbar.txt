@@ -1,4 +1,4 @@
-!ツールバー / Toolbar
+!ツールバー
 
 Attach:Editor-Toolbar.png
 

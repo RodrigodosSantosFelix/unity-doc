@@ -1,4 +1,4 @@
-! 定義済みシェーダ　プリプロセッサマクロ / Predefined shader preprocessor macros
+! 定義済みシェーダ　プリプロセッサマクロ
 
 [[SL-ShaderPrograms | shader programs]] （シェーダプログラム）をコンパイルするとき、Unityはいくつかのプリプロセッサマクロを定義します。
 
@@ -41,7 +41,7 @@
 + * @@UNITY_SAMPLE_SHADOW(tex,uv)@@ - "tex" という名前のシャドウ マップ テクスチャを特定の "uv" 座標にサンプリングします（XY コンポーネントはテクスチャの場所、Zコンポーネントは相対的なデプス）。0 - 1 の範囲で シャドウとしてひとつの float 変数を戻します。
 * @@ UNITY_SAMPLE_SHADOW_PROJ(tex,uv)@@ - 上記と同様であるが、プロジェクティブなシャドウマップ読み込みを行います。 "uv" は float4 であり、他の全てのコンポーネント は ルックアップをするために .w で除算します。
  
-!! 定数バッファマクロ / Constant Buffer Macro
+!! 定数バッファマクロ
 
 Direct3D 11は全てのシェーダ変数を "constant buffer" （定数バッファ）にグループ分けします。Unity ビルトインの変数のほとんどはすでにグループ分けされてますが、自身で作成するシェーダの変数については、予想される更新頻度に応じて、別のconstant bufferに格納することが最適です。
 

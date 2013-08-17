@@ -1,4 +1,4 @@
-!Webplayerのセキュリティサンドボックス / Security Sandbox of the Webplayer
+!Webplayerのセキュリティサンドボックス
 
 !Desktop!
 >>Desktop<<
@@ -18,7 +18,7 @@ Unityのマルチプレイヤーネットワーキングを実現する機能（
 * WWWクラスについては、[[ ScriptRef:WWW.html | WWWクラスのAPIリファレンス]] を参照してください。
 * .NET Socketクラスについては、[[ http://msdn.microsoft.com/en-us/library/system.net.sockets.socket.aspx | .NET APIリファレンス ]] を参照してください。
 
-WWWのクラスとソケットは、同じポリシー・スキーマを使用していますが、彼らは完全に独立したシステムです。 WWWのポリシーは、ポリシーがホストされたWebサービスにアクセスを許可していますが、ソケットポリシーは、すべてのTCP / UDPソケット接続に適用されます。
+WWWのクラスとソケットは、同じポリシー・スキーマを使用していますが、彼らは完全に独立したシステムです。 WWWのポリシーは、ポリシーがホストされたWebサービスにアクセスを許可していますが、ソケットポリシーは、すべてのTCP
 
 Unityエディタは"Web Securityエミュレータ"機能が付属しています。これはWebPlayerにセキュリティモデルを課します。
 これにより比較的簡単に問題を検出することができます。この設定は、下の項目から見つける事が出来ます。

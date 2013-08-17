@@ -1,4 +1,4 @@
-! 実行時のプレハブのインスタンス化 / Instantiating Prefabs at runtime
+! 実行時のプレハブのインスタンス化
 
 この時点までに基本的なところまで $$Prefabs$$ の概念について理解できているはずです。これらはゲームを通じて再利用できる、事前に定義済みの $$GameObjects$$ および $$Components$$ です。もしプレハブが何か分からない場合は、 [[Prefabs]] でより基本的な説明があるため参照下さい。
 
@@ -279,7 +279,7 @@ public float radius = 5f;
 
 void Start() {
 	for (int i = 0; i < numberOfObjects; i++) {
-		float angle = i * Mathf.PI * 2 / numberOfObjects;
+		float angle = i * Mathf.PI * 2
 		Vector3 pos = new Vector3(Mathf.Cos(angle), 0, Mathf.Sin(angle)) * radius;
 		Instantiate(prefab, pos, Quaternion.identity);
 	}

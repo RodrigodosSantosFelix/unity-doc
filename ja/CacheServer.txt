@@ -1,4 +1,4 @@
-! キャッシュサーバー (チームライセンスのみ) / Cache Server (Team License Only)
+! キャッシュサーバー (チームライセンスのみ)
 
 [[http://blogs.unity3d.com/2012/10/26/in-depth-cache-server/|なぜキャッシュサーバーを使用すべきか？]]
 

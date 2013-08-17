@@ -1,4 +1,4 @@
-! レンダリング エリア / Rendering Area
+! レンダリング エリア
 
 Attach:RenderProfiler35.png
 

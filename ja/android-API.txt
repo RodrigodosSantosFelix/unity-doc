@@ -1,4 +1,4 @@
-! Android スクリプティング / Android Scripting
+! Android スクリプティング
 
 Android デバイスのほとんどの機能は [[ScriptRef:Input.html | Input]] および [[ScriptRef:Handheld.html | Handheld]] クラスにより公開されています。クロスプラットフォーム プロジェクトについて、 Anrdoid デバイス向けの C# コードをコンパイルするために UNITY_ANDROID が定義されています。
 

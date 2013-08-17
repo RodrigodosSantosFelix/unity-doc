@@ -1,4 +1,4 @@
-! アニメーションクリップ / Animation Clip
+! アニメーションクリップ
 
 $$Animation Clip$$ はUnityにおける最小の構成要素です。これにより RunLeft 、Jump、Crawl など独立したモーションの一部を表し、様々な方法で編集および組み合わせを行なうことにより、生命力のあるアニメーション結果が得られます( [[AnimationStateMachines|アニメーション ステートマシン]] 、 [[class-AnimatorController|アニメータ コントローラ]] または [[AnimationBlendTrees|ブレンドツリー]] を参照して下さい)。 \\
 アニメーション クリップはインポートされたFBXデータから選択することが出来ます。 ( [[FBXImporter-Animations|アニメーションの FBXImporter 設定]] を参照して下さい) 、そして利用可能なアニメーション セットをクリックするとき次のプロパティの一覧が表示されます:

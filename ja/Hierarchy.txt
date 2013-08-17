@@ -1,4 +1,4 @@
-!ヒエラルキー / Hierarchy
+!ヒエラルキー
 
 Attach:Editor-Hierarchy.png\\
 

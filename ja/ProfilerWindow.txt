@@ -1,4 +1,4 @@
-! プロファイラー ウィンドウ / Profiler window
+! プロファイラー ウィンドウ
 Attach:ProfilerWindow2.png\\
 
 !! Unity プレイヤーへのアタッチ

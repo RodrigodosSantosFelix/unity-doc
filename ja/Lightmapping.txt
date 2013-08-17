@@ -1,4 +1,4 @@
-! ライトマッピング クイックスタート / Lightmapping Quickstart
+! ライトマッピング クイックスタート
 
 これはUnity のライトマッピングの紹介文です。上級者向けトピックについては [[Main.LightmappingInDepth| Unity のライトマッピングに関する詳細説明]] を参照して下さい。
 

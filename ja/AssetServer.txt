@@ -1,4 +1,4 @@
-! アセットサーバー (チームライセンス のみ) / Asset Server (Team License Only)
+! アセットサーバー (チームライセンス のみ)
 
 !! Unity アセットサーバー 概要
 

@@ -1,4 +1,4 @@
-!UnityObject2の働き / Working with UnityObject2
+!UnityObject2の働き
 
 $$UnityObject2$$ はシンプルにUnityのコンテンツをHTMLに埋め込んだりインストルのプロセスをカスタマイズすることが出来るJavascriptです。 あなたのゲームやウェブサイトに適するインストールUIを作成することは、エンドユーザーにとって魅力的であり、楽しい経験をもたらすことでしょう。このUnity $$Web Player$$ プラグインはWeb Playerインストールの開始と埋め込まれたUnityコンテンツの検出を行う関数を持っています。 HTMLファイルと一緒に ``UnityObject2.js`` ファイルをWebサーバー上にアップロードすることも可能ですが、Unityが提供している``[=http://webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/UnityObject2.js=]`` または https対応の場合は ``[=https://ssl-webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/UnityObject2.js=]`` から読み込ませるのが最善の方法です。そうすることで常に最新のUnityObject2を使用することができます。 Unityのサーバー上にある ``UnityObject2.js`` はトラフィックを節約するためにminifyされています。 ソースコードを見たい場合はWindowsであれば ``Data\Resources`` フォルダの中に、Mac OS Xであれば ``Contents/Resources`` フォルダの中にあります。  UnityObject2はデフォルトでインストールタイプの識別やコンバーション率などのデータをGoogleAnalyticsへ送信しています。UnityObject2 はjQueryに依存しています。
 

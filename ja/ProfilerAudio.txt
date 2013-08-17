@@ -1,4 +1,4 @@
-! オーディオ エリア / Audio Area
+! オーディオ エリア
 
 Attach:AudioProfiler35.png
 

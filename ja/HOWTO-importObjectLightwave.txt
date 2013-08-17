@@ -1,4 +1,4 @@
-! Lightwave からのオブジェクトのインポート / Importing Objects From Lightwave
+! Lightwave からのオブジェクトのインポート
 
 二つの異なる方法により Lightwave からメッシュおよびアニメーションをインポート出来ます:
 

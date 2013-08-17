@@ -1,4 +1,4 @@
-! ルートモーションの仕組み / Root Motion - how it works
+! ルートモーションの仕組み
 
 Attach:MecanimRootMotionPreview.png
 
