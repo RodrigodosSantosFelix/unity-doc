@@ -120,7 +120,8 @@ Unity は、アプリケーション アーカイブ (.apk ファイル) を作�
 
 !!テクスチャ圧縮
 
-$$Build Settings$$ 下に、^^Texture Compression^^ オプションがあります。 デフォルトでは、Unity は、個々のテクスチャ形式の無効のないテクスチャに対しては、[ Main.android-GettingStarted | ETC1/RGBA16 ]] テクスチャ形式を使用します ([[ Main.class-Texture2D | Texture 2D
+$$Build Settings$$ 下に、^^Texture Compression^^ オプションがあります。 デフォルトでは、Unity は、個々のテクスチャ形式の無効のないテクスチャに対しては、[ Main.android-GettingStarted | ETC1/RGBA16 ]] テクスチャ形式を使用します ([[ Main.class-Texture2D | Texture 2D]] 参照)。
+
 
 特定のハードウェア アーキテクチャを対象に、アプリケーション アーカイブ (.apk ファイル) を作成したい場合、^^Texture Compression^^ オプションを使用して、このデフォルトの動作を無効にできます。
 圧縮されていないテクスチャはそのままにされます。つまり、圧縮フォーマットのテクスチャだけ ^^Texture Compression^^ オプションで選択されたフォーマットを使います。
